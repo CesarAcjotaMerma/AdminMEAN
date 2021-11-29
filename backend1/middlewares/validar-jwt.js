@@ -63,7 +63,6 @@ const varlidarADMIN_ROLE = async(req, res, next)  => {
             msg: 'Hable con el administrador'
         })
     }
-
 }
 
 const varlidarADMIN_ROLE_o_MismoUsuario = async(req, res, next)  => {
